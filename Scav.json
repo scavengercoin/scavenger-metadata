@@ -1,0 +1,21 @@
+{
+  "name": "Scavenger Coin",
+  "symbol": "SCAV",
+  "description": "A crypto scavenger-hunt token.",
+  "image": "https://raw.githubusercontent.com/scavengercoin/scavenger-metadata/main/Scav-logo.png",
+  "external_url": "https://scavengercoin.com",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Launch City", "value": "NYC" },
+    { "trait_type": "Project", "value": "Scavenger Coin" }
+  ],
+  "properties": {
+    "creators": [],
+    "files": [
+      { 
+        "uri": "https://raw.githubusercontent.com/scavengercoin/scavenger-metadata/main/Scav-logo.png", 
+        "type": "image/png" 
+      }
+    ]
+  }
+}
