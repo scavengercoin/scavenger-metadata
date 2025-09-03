@@ -2,7 +2,7 @@
   "name": "Scavenger Coin",
   "symbol": "SCAV",
   "description": "A crypto scavenger-hunt token.",
-  "image": "https://raw.githubusercontent.com/scavengercoin/scavenger-metadata/main/Scav-logo.png",
+  "image": "https://raw.githubusercontent.com/scavengercoin/scavenger-metadata/main/Scav-logo.png?v=2",
   "external_url": "https://scavengercoin.com",
   "seller_fee_basis_points": 0,
   "attributes": [
@@ -12,11 +12,10 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/scavengercoin/scavenger-metadata/main/Scav-logo.png",
+        "uri": "https://raw.githubusercontent.com/scavengercoin/scavenger-metadata/main/Scav-logo.png?v=2",
         "type": "image/png"
       }
     ],
     "category": "image"
   }
 }
-
